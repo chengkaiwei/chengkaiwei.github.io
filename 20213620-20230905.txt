@@ -1,0 +1,104 @@
+程洪玉@ckw▒▒▒޵▒computer MINGW64 ~
+$ history
+    1  cmd/
+    2  cd /
+    3  ls
+    4  ll
+    5  cd /
+    6  ls
+    7  cd /
+    8  CD/
+    9  CD
+   10  cd
+   11  cd/
+   12  mkdir 123
+   13  ls
+   14  mkdir 321
+   15  ls
+   16  cp
+   17  cp -r 123 321
+   18  ls
+   19  ls 321
+   20  cd /
+   21  history
+   22  touch a.txt b.txt
+   23  ls
+   24  cd ~
+   25  ls
+   26  touch a.txt b.txt
+   27  ls
+   28  cp a.txt b.txt 123
+   29  ls
+   30  ls 123
+   31  cd ..
+   32  ls
+   33  cd /
+   34  rmdir 321
+   35  ls 321
+   36  cd ~
+   37  ls
+   38  rmdir 321
+   39  rmdir 123
+   40  cd ~
+   41  ls
+   42  ls
+   43  ls 321
+   44  rmdir 123
+   45  ls 123
+   46  rm a.txt
+   47  ls123
+   48  ls 123
+   49  cd 123
+   50  rm a.txt
+   51  ls
+   52  rm b.txt
+   53  ls
+   54  cd..
+   55  cd-
+   56  cd -
+   57  rmdir 123
+   58  ls
+   59  history
+   60  mkdir 111
+   61  ls
+   62  mkdir 222
+   63  ls
+   64  cp 111 321
+   65  cp -r 111 321
+   66  ls
+   67  ls 312
+   68  ls 321
+   69  mkdir 111
+   70  mkdir 222
+   71  mkdir 333
+   72  ls 321
+   73  cd 321
+   74  mkdir 456
+   75  ls
+   76  pwd
+   77  rmdir 456
+   78  ls
+   79  rmdir 111
+   80  history
+   81  cd 111
+   82  cd..
+   83  cd ..
+   84  cd 111
+   85  ls
+   86  mkdir 888
+   87  ls
+   88  touch 9.txt
+   89  ls
+   90  rm 9,txt
+   91  rm 9,txt
+   92  rm 9.txt
+   93  ls
+   94  rmdir 888
+   95  ls
+   96  cd ..
+   97  rmdir 111
+   98  ls
+   99  cd 222
+  100  ls
+  101  cd ..
+  102  history
